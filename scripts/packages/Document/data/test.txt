@@ -1,0 +1,1 @@
+this is a test document that I will be using for the latent dirichlet allocation (LDA) algorithm that I'm trying to learn. In this document, there are prices: $5.64 and 42 euros as well as $50. She says that I said something about money a while ago but I am not sure anymore.

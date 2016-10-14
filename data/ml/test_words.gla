@@ -1,0 +1,19 @@
+test_weather
+
+@startsWithvowel	c	y n
+@endsInVowel		c	y n
+@hasQU				c	y n
+@language			c	e s
+
+#y y y s
+#y n y e
+#y y y s
+#y n n e
+#n y n s
+#n n n e
+#n y y s
+#n n n e
+#y y y s
+#y y n e
+#n n n e
+#y y n e

@@ -1,0 +1,22 @@
+test_weather
+
+@daytime	a	morning afternoon night
+@weather	a	sunny cloudy rainy windy
+@season		a	winter spring summer fall
+@status		a	good bad
+
+#morning sunny summer good
+#morning sunny spring good
+#morning sunny winter good
+#morning sunny fall good
+#morning rainy summer good
+#afternoon windy winter bad
+#afternoon cloudy fall bad
+#afternoon sunny spring good
+#afternoon windy fall bad
+#afternoon rainy winter bad
+#night windy winter bad
+#night rainy winter bad
+#night cloudy fall bad
+#night windy fall bad
+#night rainy fall bad
