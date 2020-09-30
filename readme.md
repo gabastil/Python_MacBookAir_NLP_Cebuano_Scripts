@@ -154,3 +154,4 @@ A001 | date |
 9300 | particle | number - plural
 9400 | particle | number - dual
 9500 | particle | number - collective
+9600 | particle | number - modifier
